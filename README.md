@@ -5,12 +5,12 @@ A list of previous and proposed presentation topics at OPUG meetups.
 
 We are always looking for presentation topics. If you feel confident enough that you could talk about it for five minutes, chances are that it would make a good presentation. Here is the general list of presentation topic ideas compiled from previous meetups:
 
->Data Wrangling/Cleaning (Pandas, PandaSQL, iPython)
->Data Analytics, Visualization (D3, Beaker)
->DBs, Storage, ORMs (AWS, Azure, Cassandra, Mongo, Parse, SQLAlchemy)
->Frameworks (Kivy, Flask, Django)
->Microservices, ESBs, Sandboxes (Docker, Zato.io, Runnable.io)
->Other (Python + Electron, Machine Learning)
+* Data Wrangling/Cleaning (Pandas, PandaSQL, iPython)
+* Data Analytics, Visualization (D3, Beaker)
+* DBs, Storage, ORMs (AWS, Azure, Cassandra, Mongo, Parse, SQLAlchemy)
+* Frameworks (Kivy, Flask, Django)
+* Microservices, ESBs, Sandboxes (Docker, Zato.io, Runnable.io)
+* Other (Python + Electron, Machine Learning)
 
 When listing, give a brief description along with your name and Slack name (if you have one).
 
@@ -41,8 +41,11 @@ Making GraphQL APIs using Python - Wesley Lima
 
 Configuring Atom for Python - Emmy Ebanks
 * Presentation slides ([GDrive](https://drive.google.com/file/d/0B3Ufn4i9X_--NDVfdzRPTW0ybTA/view?usp=sharing))
+
 #### May
+
 #### April
+
 #### March
 
 ### 2015
