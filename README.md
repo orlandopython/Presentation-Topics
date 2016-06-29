@@ -7,7 +7,7 @@ We are always looking for presentation topics. If you feel confident enough that
 
 * Data Wrangling/Cleaning (Pandas, PandaSQL, iPython)
 * Data Analytics, Visualization (D3, Beaker)
-* DBs, Storage, ORMs (AWS, Azure, Cassandra, Mongo, Parse, SQLAlchemy)
+* DBs, Storage, ORMs (AWS, Azure, Cassandra, Mongo, SQLAlchemy)
 * Frameworks (Kivy, Flask, Django)
 * Microservices, ESBs, Sandboxes (Docker, Zato.io, Runnable.io)
 * Other (Python + Electron, Machine Learning)
@@ -16,7 +16,8 @@ When listing, give a brief description along with your name and Slack name (if y
 
 ### Language
 
-Making the most of the "with" clause - Michael duPont (@mdupont)  
+Making the most of the "with" clause - Michael duPont (@mdupont)
+
 Function annotations and enforced type checking - Michael duPont (@mdupont)
 
 ### Libraries
