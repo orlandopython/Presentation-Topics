@@ -44,6 +44,9 @@ Configuring Atom for Python - Emmy Ebanks
 * Presentation slides ([GDrive](https://drive.google.com/file/d/0B3Ufn4i9X_--NDVfdzRPTW0ybTA/view?usp=sharing))
 
 #### May
+Docker for Python - Philip Carter (Seneca @slack)
+* [Docker for Python slides][https://docs.google.com/presentation/d/1mJ2HsOVxhigdZzCu82Cz_FJNmWq6bIqy_U9cC0hm_do/edit?usp=sharing]
+
 
 #### April
 
