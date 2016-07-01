@@ -18,6 +18,8 @@ When listing, give a brief description along with your name and Slack name (if y
 
 Making the most of the "with" clause - Michael duPont (@mdupont)
 
+Creating your own Python modules - Michael duPont (@mdupont)
+
 Function annotations and enforced type checking - Michael duPont (@mdupont)
 
 ### Libraries
@@ -34,6 +36,7 @@ Battle of the IDEs (meetup topic) - Michael duPont (@mdupont)
 ### 2016
 #### June
 Data Analysis using Jupyter (IPython) - Sarah Holderness
+* Presentation code ([GitHub](https://github.com/orlandopython/OPUG-Jupyter))
 * [Jupyter Home](http://jupyter.org/)
 
 Making GraphQL APIs using Python - Wesley Lima
@@ -42,10 +45,11 @@ Making GraphQL APIs using Python - Wesley Lima
 
 Configuring Atom for Python - Emmy Ebanks
 * Presentation slides ([GDrive](https://drive.google.com/file/d/0B3Ufn4i9X_--NDVfdzRPTW0ybTA/view?usp=sharing))
+* [Atom Home](https://atom.io/)
 
 #### May
 Docker for Python - Philip Carter (Seneca @slack)
-* [Docker for Python slides][https://docs.google.com/presentation/d/1mJ2HsOVxhigdZzCu82Cz_FJNmWq6bIqy_U9cC0hm_do/edit?usp=sharing]
+* Presentation slides([GDrive](https://docs.google.com/presentation/d/1mJ2HsOVxhigdZzCu82Cz_FJNmWq6bIqy_U9cC0hm_do/edit?usp=sharing))
 
 
 #### April
