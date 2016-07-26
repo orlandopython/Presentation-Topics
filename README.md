@@ -38,6 +38,7 @@ Making the most of the "with" clause - Michael duPont (@mdupont)
 * [Python3 Documentation](https://docs.python.org/3/reference/compound_stmts.html#with)
 
 Regex in Python - Casey Faist (@caslynn)
+* Presentation code and slides ([GitHub](https://github.com/Cascode6/RegexReIntro))
 
 #### June
 Data Analysis using Jupyter (IPython) - Sarah Holderness
