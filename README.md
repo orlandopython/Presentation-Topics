@@ -16,8 +16,6 @@ When listing, give a brief description along with your name and Slack name (if y
 
 ### Language
 
-Making the most of the "with" clause - Michael duPont (@mdupont)
-
 Creating your own Python modules - Michael duPont (@mdupont)
 
 Function annotations and enforced type checking - Michael duPont (@mdupont)
@@ -34,6 +32,13 @@ Battle of the IDEs (meetup topic) - Michael duPont (@mdupont)
 
 ## Past Presentations
 ### 2016
+#### July
+Making the most of the "with" clause - Michael duPont (@mdupont)
+* Presentation code ([GitHub](https://github.com/orlandopython/Python-Fundamentals/blob/master/with_statement.py))
+* [Python3 Documentation](https://docs.python.org/3/reference/compound_stmts.html#with)
+
+Regex in Python - Casey Faist (@caslynn)
+
 #### June
 Data Analysis using Jupyter (IPython) - Sarah Holderness
 * Presentation code ([GitHub](https://github.com/orlandopython/OPUG-Jupyter))
