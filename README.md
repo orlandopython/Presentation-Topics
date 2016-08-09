@@ -39,6 +39,9 @@ Making the most of the "with" clause - Michael duPont (@mdupont)
 
 Regex in Python - Casey Faist (@caslynn)
 * Presentation code and slides ([GitHub](https://github.com/Cascode6/RegexReIntro))
+ 
+State of the OPUG - Orlando Python Resources - Devan Kestel (@devankestel)
+* Presentation slides ([Google Drive] (https://drive.google.com/file/d/0B1fKmYPqMnBLUzFqYzdBN1FUWWM/view?usp=sharing))
 
 #### June
 Data Analysis using Jupyter (IPython) - Sarah Holderness
