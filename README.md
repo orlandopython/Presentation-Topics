@@ -22,8 +22,6 @@ Function annotations and enforced type checking - Michael duPont (@mdupont)
 
 ### Libraries
 
-Intro to machine learning with sk-learn - Michael duPont (@mdupont)
-
 ### Applications
 
 ### Dev Tools
@@ -32,6 +30,29 @@ Battle of the IDEs (meetup topic) - Michael duPont (@mdupont)
 
 ## Past Presentations
 ### 2016
+#### October
+
+Python and pigpio - Jerry Reed (@jerry_reed)
+* [PiGPIO Documentation](http://abyz.co.uk/rpi/pigpio/)
+
+Hacker Cup Python Power Up - Dale Ross (@dalevross)
+
+Working with Command Line Arguments - Michael duPont (@mdupont)
+* Presentation code ([GitHub](https://github.com/orlandopython/Mini-Talk-Example-Code/tree/master/Reading-Command-Line-Parameters))
+* [Begins Documentation](https://pypi.python.org/pypi/begins/0.9)
+* [Invoke Documentation](https://pypi.python.org/pypi/invoke/0.13.0)
+
+Merging Excel Files with Pandas - Casey Faist (@caslynn)
+* Presentation code ([GitHub](https://github.com/Cascode6/ExcellentPandas))
+* [Pandas Documentation](http://pandas.pydata.org)
+
+#### September
+Intro to Neural Networks - Don Tran
+
+Intro to Machine Learning with Scikit-Learn Workshop - Michael duPont (@mdupont)
+* Workshop code and Jupyter notebooks ([GitHub](https://github.com/orlandopython/ML-Workshop))
+* [Scikit-Learn Documentation](http://scikit-learn.org)
+
 #### July
 Making the most of the "with" clause - Michael duPont (@mdupont)
 * Presentation code ([GitHub](https://github.com/orlandopython/Python-Fundamentals/blob/master/with_statement.py))
@@ -41,7 +62,7 @@ Regex in Python - Casey Faist (@caslynn)
 * Presentation code and slides ([GitHub](https://github.com/Cascode6/RegexReIntro))
  
 State of the OPUG - Orlando Python Resources - Devan Kestel (@devankestel)
-* Presentation slides ([Google Drive] (https://drive.google.com/file/d/0B1fKmYPqMnBLUzFqYzdBN1FUWWM/view?usp=sharing))
+* Presentation slides ([Google Drive](https://drive.google.com/file/d/0B1fKmYPqMnBLUzFqYzdBN1FUWWM/view?usp=sharing))
 
 #### June
 Data Analysis using Jupyter (IPython) - Sarah Holderness
@@ -58,7 +79,7 @@ Configuring Atom for Python - Emmy Ebanks
 
 #### May
 Docker for Python - Philip Carter (Seneca @slack)
-* Presentation slides([GDrive](https://docs.google.com/presentation/d/1mJ2HsOVxhigdZzCu82Cz_FJNmWq6bIqy_U9cC0hm_do/edit?usp=sharing))
+* Presentation slides ([GDrive](https://docs.google.com/presentation/d/1mJ2HsOVxhigdZzCu82Cz_FJNmWq6bIqy_U9cC0hm_do/edit?usp=sharing))
 
 
 #### April
