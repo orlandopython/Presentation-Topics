@@ -33,6 +33,8 @@ Battle of the IDEs (meetup topic) - Michael duPont (@mdupont)
 #### October
 
 Python and pigpio - Jerry Reed (@jerry_reed)
+* Presentation Slides [Google Slides](https://docs.google.com/presentation/d/1KsLrKsd9pAwr08cmIkYCs39lZk0snvWxgbmxwQsaE5c/edit#slide=id.gd9c453428_0_16)
+* Project Code [GitHub](https://github.com/greed9/bats/blob/master/blue_bat2.py)
 * [PiGPIO Documentation](http://abyz.co.uk/rpi/pigpio/)
 
 Hacker Cup Python Power Up - Dale Ross (@dalevross)
